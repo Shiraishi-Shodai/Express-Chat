@@ -1,0 +1,24 @@
+{
+  "name": "express-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiraishi-Shodai/Express-Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiraishi-Shodai/Express-Chat/issues"
+  },
+  "homepage": "https://github.com/Shiraishi-Shodai/Express-Chat#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  }
+}
